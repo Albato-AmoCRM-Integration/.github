@@ -45,7 +45,7 @@ Automate workflows between AmoCRM and other services using Albato — no-code in
 ### 🖼 Preview
 
 Albato interface with AmoCRM automation setup  
-![Screenshot](PLACE_YOUR_IMAGE_LINK_HERE)  
+![Screenshot](https://neaktor.com/blog/wp-content/uploads/2020/04/Albato_integration_01.png)  
 *Seamless integration — from lead to conversion*
 
 ---
